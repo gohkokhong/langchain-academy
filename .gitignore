@@ -222,3 +222,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+
+/docs
