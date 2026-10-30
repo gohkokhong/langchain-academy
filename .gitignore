@@ -224,3 +224,10 @@ $RECYCLE.BIN/
 module-6/deployment/docker-compose.yml
 
 /docs
+
+# LangGraph dev server state (langgraph dev)
+.langgraph_api/
+
+# Anaconda / JupyterLab file browser DB
+anaconda_projects/
+module-*/studio/.langgraph_api/*
